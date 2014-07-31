@@ -90,20 +90,20 @@ namespace _1
         //            }
         //        }
         //    }
-            Console.WriteLine("Digite o 1 valor do fibonacci: ");
-            int primeiro_valor = Convert.ToInt32(Console.ReadLine());
-            int proximo_valor = primeiro_valor + 1;
-            int novo_valor = proximo_valor;
-
-            Console.WriteLine("Informe a repetição de fibonacci: ");
-            int repeticao = Convert.ToInt32(Console.ReadLine());
-
-            for (int i = 0; i < repeticao; i++)
+            int valor_inicial = 0;
+            int valor_atual = 0;
+            int valor_final = 1;
+            Console.WriteLine("Informe a quantidade de repeticao: ");
+            int loopi = Convert.ToInt32(Console.ReadLine());
+            for (int i = 0; i < loopi; i++)
             {
-                int fibbo = novo_valor + proximo_valor;
-                Console.WriteLine(fibbo);
+                valor_atual = valor_inicial + valor_final;
+                valor_inicial = valor_final;
+                valor_final = valor_atual;
+                
+                Console.WriteLine(valor_atual);
             }
-
-        }
+            Console.ReadKey();
+        }      
     }
 }
