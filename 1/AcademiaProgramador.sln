@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solucao", "Solucao\Solucao.csproj", "{CE6FF517-15D8-4BF6-AB07-332C4A97CB59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unidade 1", "1\Unidade 1.csproj", "{2B7FDDDA-58A3-4781-976B-EFE1C938EA3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CE6FF517-15D8-4BF6-AB07-332C4A97CB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CE6FF517-15D8-4BF6-AB07-332C4A97CB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CE6FF517-15D8-4BF6-AB07-332C4A97CB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CE6FF517-15D8-4BF6-AB07-332C4A97CB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7FDDDA-58A3-4781-976B-EFE1C938EA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7FDDDA-58A3-4781-976B-EFE1C938EA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7FDDDA-58A3-4781-976B-EFE1C938EA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7FDDDA-58A3-4781-976B-EFE1C938EA3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
