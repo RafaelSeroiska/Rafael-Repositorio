@@ -45,10 +45,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Apostila\Unidade 2 - Orientação a Objetos.pdf" />
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Exercicio_Fixacao\" />
+    <Folder Include="Orientacao_a_Objetos\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
