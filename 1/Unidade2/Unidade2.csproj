@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2B7FDDDA-58A3-4781-976B-EFE1C938EA3D}</ProjectGuid>
+    <ProjectGuid>{65D15751-15AC-4685-83FD-BC7CEEED06C1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_1</RootNamespace>
-    <AssemblyName>1</AssemblyName>
+    <RootNamespace>Unidade2</RootNamespace>
+    <AssemblyName>Unidade2</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,15 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Fixacao\Banco.cs" />
-    <Compile Include="Fixacao\Estoque.cs" />
-    <Compile Include="Fixacao\HoraDeTrabalho.cs" />
-    <Compile Include="Fixacao\Xadrez.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Exercicio_Fixacao\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

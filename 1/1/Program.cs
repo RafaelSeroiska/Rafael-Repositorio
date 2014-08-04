@@ -9,7 +9,7 @@ namespace _1
     class Program
     {
         public static int v = 0;
-        static void Main(string[] args)
+        static void Main11(string[] args)
         {
             //// 4)
             //for (int i = 0; i < 100; i++)
