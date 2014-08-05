@@ -47,6 +47,15 @@
     <Compile Include="Exercicio_Complementares\Orientacao_a_Objetos\TestaFuncionario.cs" />
     <Compile Include="Exercicio_Complementares\Orientacao_a_Objetos\TestaTurma.cs" />
     <Compile Include="Exercicio_Complementares\Orientacao_a_Objetos\Turma.cs" />
+    <Compile Include="Exercicio_Fixacao 1.10\Agencia.cs" />
+    <Compile Include="Exercicio_Complementares 1.10\AlunosETurma.cs" />
+    <Compile Include="Exercicio_Complementares 1.10\Alunos.cs" />
+    <Compile Include="Exercicio_Fixacao 1.10\CartaoDeCredito.cs" />
+    <Compile Include="Exercicio_Fixacao 1.10\Cliente.cs" />
+    <Compile Include="Exercicio_Fixacao 1.10\ContaAgencia.cs" />
+    <Compile Include="Exercicio_Fixacao 1.10\TestaCartaoDeCredito.cs" />
+    <Compile Include="Exercicio_Fixacao 1.10\TestaContaEAgencia.cs" />
+    <Compile Include="Exercicio_Complementares 1.10\Turma.cs" />
     <Compile Include="Orientacao_a_Objetos\Agencia.cs" />
     <Compile Include="Orientacao_a_Objetos\CartaoDeCredito.cs" />
     <Compile Include="Orientacao_a_Objetos\Cliente.cs" />

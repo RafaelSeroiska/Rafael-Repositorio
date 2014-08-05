@@ -8,7 +8,7 @@ namespace Unidade2.Exercicio_Complementares.Orientacao_a_Objetos
 {
     class TestaFuncionario
     {
-        public static void Main() {
+        public static void Main22() {
             Funcionario funcionario1 = new Funcionario();
 
             funcionario1.Nome = "Blitzkriegpop";

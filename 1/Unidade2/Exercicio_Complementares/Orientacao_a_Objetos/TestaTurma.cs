@@ -8,7 +8,7 @@ namespace Unidade2.Exercicio_Complementares.Orientacao_a_Objetos
 {
     class TestaTurma
     {
-        public static void Main()
+        public static void Main22()
         {
             Turma t1 = new Turma();
             t1.periodo = "Noturno";
