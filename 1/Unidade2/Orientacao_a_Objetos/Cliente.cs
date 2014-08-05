@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unidade2
+namespace Unidade2.Orientacao_a_Objetos
 {
-    class Program
+    class Cliente
     {
-        static void Main111(string[] args)
-        {
-        }
+        public string nome;
+        public int codigo;
     }
 }

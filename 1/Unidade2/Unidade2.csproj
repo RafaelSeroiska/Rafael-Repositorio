@@ -41,6 +41,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercicio_Complementares\Orientacao_a_Objetos\Aluno.cs" />
+    <Compile Include="Exercicio_Complementares\Orientacao_a_Objetos\Funcionario.cs" />
+    <Compile Include="Exercicio_Complementares\Orientacao_a_Objetos\TestaAluno.cs" />
+    <Compile Include="Exercicio_Complementares\Orientacao_a_Objetos\TestaFuncionario.cs" />
+    <Compile Include="Exercicio_Complementares\Orientacao_a_Objetos\TestaTurma.cs" />
+    <Compile Include="Exercicio_Complementares\Orientacao_a_Objetos\Turma.cs" />
+    <Compile Include="Orientacao_a_Objetos\Agencia.cs" />
+    <Compile Include="Orientacao_a_Objetos\CartaoDeCredito.cs" />
+    <Compile Include="Orientacao_a_Objetos\Cliente.cs" />
+    <Compile Include="Orientacao_a_Objetos\Conta.cs" />
+    <Compile Include="Orientacao_a_Objetos\TestaAgencia.cs" />
+    <Compile Include="Orientacao_a_Objetos\TestaCartaoDeCredito.cs" />
+    <Compile Include="Orientacao_a_Objetos\TestaCliente.cs" />
+    <Compile Include="Orientacao_a_Objetos\TestaConta.cs" />
+    <Compile Include="Orientacao_a_Objetos\TestaValoresPadrao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -48,9 +63,7 @@
     <None Include="Apostila\Unidade 2 - Orientação a Objetos.pdf" />
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Orientacao_a_Objetos\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

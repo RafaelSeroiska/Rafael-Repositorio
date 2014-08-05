@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Fixacao\Banco.cs" />
+    <Compile Include="Fixacao\Combustivel.cs" />
     <Compile Include="Fixacao\Estoque.cs" />
     <Compile Include="Fixacao\HoraDeTrabalho.cs" />
     <Compile Include="Fixacao\Xadrez.cs" />
