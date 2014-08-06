@@ -8,7 +8,7 @@ namespace Unidade2.Exercicio_Fixacao_1._10
 {
     class TestaContaEAgencia
     {
-        static void Main()
+        static void Main11()
         {
             Agencia a = new Agencia();
             a.numero = 1919;

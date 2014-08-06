@@ -52,7 +52,7 @@ namespace _1.Fixacao
                     
                     double valorAlcool = 2.90;
 
-                    for (int i = 0; i < g; i++)
+                    for (int i = 0; i < a; i++)
                     {
                          valor = desconto * valorAlcool;
                     }

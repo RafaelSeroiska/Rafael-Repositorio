@@ -8,7 +8,7 @@ namespace Unidade2.Exercicio_Fixacao_1._10
 {
     class AlunosETurma
     {
-        public static void Main()
+        public static void Main32()
         {
             Turma t = new Turma();
             t.nomeTurma = "3º 1";
